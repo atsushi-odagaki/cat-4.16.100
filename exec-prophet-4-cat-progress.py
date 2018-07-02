@@ -80,3 +80,5 @@ print(df_merge.info())
 # 描画
 df_merge[['forecast','actual']].plot(legend=True)
 plt.show()
+
+# GKPJ-1
